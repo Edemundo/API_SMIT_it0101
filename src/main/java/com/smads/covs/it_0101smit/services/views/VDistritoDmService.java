@@ -1,7 +1,7 @@
-package com.smads.covs.it_0101smit.services;
+package com.smads.covs.it_0101smit.services.views;
 
-import com.smads.covs.it_0101smit.models.VDistritoDm;
-import com.smads.covs.it_0101smit.repositorys.VDistritoDmRepository;
+import com.smads.covs.it_0101smit.models.views.VDistritoDm;
+import com.smads.covs.it_0101smit.repositorys.views.VDistritoDmRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

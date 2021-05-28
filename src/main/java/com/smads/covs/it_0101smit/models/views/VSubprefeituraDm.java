@@ -1,4 +1,4 @@
-package com.smads.covs.it_0101smit.models;
+package com.smads.covs.it_0101smit.models.views;
 
 import javax.persistence.Entity;
 import javax.persistence.Id;
